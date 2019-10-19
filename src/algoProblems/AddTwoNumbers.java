@@ -77,10 +77,8 @@ public class AddTwoNumbers {
 			//debug
 			//System.out.println("last: " + currentNode.val + " ");
 		}
-		
 		return node;
 	}
-
 	
 	public static ArrayList<Integer> walkNodes(ListNode list) {
 		int value;
@@ -108,9 +106,7 @@ public class AddTwoNumbers {
 		ListNode next;
 		ListNode(int x) { val = x; }	//constructor
 	}
-	
 }
-
 
 /**
  * Definition for singly-linked list.
