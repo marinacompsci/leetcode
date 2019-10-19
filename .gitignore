@@ -5,3 +5,7 @@ bin
 .settings
 *.class
 .DS_Store
+.idea
+leetcode.iml
+lib
+out
