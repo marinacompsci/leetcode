@@ -1,10 +1,10 @@
 package algoProblems;
+import org.junit.*;
 
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.assertArrayEquals;
 
 class TwoSumTest {
-	@Test 
+	@Test
 	void test() {
 		int[] num = {2, 7, 11, -1};
 		int target = 13;
