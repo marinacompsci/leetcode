@@ -6,6 +6,6 @@ bin
 *.class
 .DS_Store
 .idea
-leetcode.iml
+*.iml
 lib
 out
